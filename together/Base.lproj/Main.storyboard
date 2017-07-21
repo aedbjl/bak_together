@@ -82,7 +82,7 @@
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yg5-SC-GSg">
-                                <rect key="frame" x="89" y="505" width="46" height="30"/>
+                                <rect key="frame" x="79" y="497" width="46" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="myfile"/>
                                 <connections>
@@ -131,7 +131,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="5bt-wW-OuL" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="834" y="116"/>
+            <point key="canvasLocation" x="196" y="-662"/>
         </scene>
         <!--Editresume View-->
         <scene sceneID="7EX-4K-2JA">
@@ -213,7 +213,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Mw5-sT-oZG" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="22" y="1371"/>
+            <point key="canvasLocation" x="-1260" y="684"/>
         </scene>
         <!--Myfile View Controller-->
         <scene sceneID="xK4-0m-u1W">
@@ -316,7 +316,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="27b-1g-YKo" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="797.60000000000002" y="867.61619190404804"/>
+            <point key="canvasLocation" x="-836" y="1367"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="B7J-VI-7uk">
@@ -343,7 +343,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="hbO-Hs-yWN" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1856.8" y="887.40629685157433"/>
+            <point key="canvasLocation" x="834" y="500"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="tvW-rd-jqB">
@@ -370,7 +370,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="POm-WA-JnP" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2639" y="931"/>
+            <point key="canvasLocation" x="1494" y="883"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="uV7-ZF-e3a">
@@ -397,7 +397,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ZLr-Ke-ziK" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3372" y="902"/>
+            <point key="canvasLocation" x="1711" y="-182"/>
         </scene>
         <!--Open GroupVC-->
         <scene sceneID="U5w-rn-5L8">
@@ -452,7 +452,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="2qy-JT-VTq" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1596" y="124.58770614692655"/>
+            <point key="canvasLocation" x="942" y="-535"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="hXU-A2-XHU">
@@ -547,7 +547,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="tvC-wX-U7y" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2397.5999999999999" y="129.98500749625188"/>
+            <point key="canvasLocation" x="-156" y="964"/>
         </scene>
     </scenes>
 </document>
